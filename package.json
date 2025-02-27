@@ -1,17 +1,20 @@
 {
-  "name": "01-javascript-drum-kit",
+  "name": "javascript30-master",
   "version": "1.0.0",
-  "description": "",
+  "description": "30 Day Vanilla JS Coding Challenge  Build 30 things in 30 days with 30 tutorials  No Frameworks×No Compilers×No Libraries×No Boilerplate...",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smircodes/JavaScript30-Challenges.git"
+  },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
+  "bugs": {
+    "url": "https://github.com/smircodes/JavaScript30-Challenges/issues"
   },
-  "homepage": "https://smircodes.github.io/JavaScript30-Challenges/01-JavaScript-Drum-Kit"
+  "homepage": "https://github.com/smircodes/JavaScript30-Challenges#readme"
 }
